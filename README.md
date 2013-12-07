@@ -2,13 +2,12 @@ BPM PLAYLIST!
 ===========
 
 Dependencies
-  bpm-tag http://www.pogo.org.uk/~mark/bpm-tools/
-  
-  ffmpeg
-  sox
-  libsox-fmt-mp3
-  flac
-  vlc
+  *bpm-tag http://www.pogo.org.uk/~mark/bpm-tools/
+  *ffmpeg
+  *sox
+  *libsox-fmt-mp3
+  *flac
+  *vlc
 
 Example usage
 
