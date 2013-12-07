@@ -2,6 +2,7 @@ BPM PLAYLIST!
 ===========
 
 Dependencies
+  - php
   - bpm-tag http://www.pogo.org.uk/~mark/bpm-tools/
   - ffmpeg
   - sox
