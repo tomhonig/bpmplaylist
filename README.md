@@ -2,12 +2,12 @@ BPM PLAYLIST!
 ===========
 
 Dependencies
-  *bpm-tag http://www.pogo.org.uk/~mark/bpm-tools/
-  *ffmpeg
-  *sox
-  *libsox-fmt-mp3
-  *flac
-  *vlc
+  - bpm-tag http://www.pogo.org.uk/~mark/bpm-tools/
+  - ffmpeg
+  - sox
+  - libsox-fmt-mp3
+  - flac
+  - vlc
 
 Example usage
 
@@ -23,5 +23,4 @@ Example usage
   
   $ ./generate-playlist.php -s 300:100,60:60,180:110,1800:90
   
-    <duration in seconds>:<bpm>,<duration in seconds>:<bpm>, [...} 
     
